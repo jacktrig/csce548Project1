@@ -6,3 +6,5 @@ Contributions
 Jackson Trigiani: Executed and observed all three tasks on my Linux machine (also took screenshot of each task results); I answered all questions and compared answers with group.
 
 Christian Loftis: Performed all three tasks on my virtual machine, and took screenshots of results. Created lab report with all questions answered, and compared answers with other group members.
+
+Logan Etheredge: Successfully completed all three tasks through the virtual machine and recorded screenshots of the results. Answered all six questions and shared findings with group members.
