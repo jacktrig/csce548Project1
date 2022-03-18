@@ -10,3 +10,5 @@ Christian Loftis: Performed all three tasks on my virtual machine, and took scre
 Logan Etheredge: Successfully completed all three tasks through the virtual machine and recorded screenshots of the results. Answered all six questions and shared findings with group members.
 
 Briana Rovelli: Completed all three tasks through the virtual machine and took screenshots for each task as well as asked the questions. Compared answers with the other group members.
+
+Max Coughtry: Observed all three tasks on my Linux machine (also took screenshot of each task results); Reviewd answers that group members had previously finished
